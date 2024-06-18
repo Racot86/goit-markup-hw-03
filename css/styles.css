@@ -198,6 +198,13 @@ address{
 .section-heading{
     max-width: 496px;
 }
+.direction-column{
+    flex-direction: column;
+    align-items: center;
+}
+.margin-top-48{
+    margin-top: 48px;
+}
 
 
 
