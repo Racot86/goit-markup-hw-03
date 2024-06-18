@@ -12,7 +12,7 @@
     --hero-background: #2E2F42B2;
     --white: #ffffff;
     --dairy: #fcfcfc;
-    h1,h2,h3,p,ul{
+    h1,h2,h3,p{
         margin: 0;
         padding: 0;
     }
@@ -211,4 +211,7 @@ img{
 }
 .align-items-center{
     align-items: center;
+}
+.padding-left-null{
+    padding-left: 0;
 }
