@@ -119,7 +119,7 @@ h3{
     line-height: 24px;
 
 }
-header{
+.header{
     border-bottom: 1px solid var(--corn-flower);
 }
 
@@ -199,7 +199,7 @@ img{
     padding-bottom: 24px;
 }
 
-.mr-auto{
+.margin-right-auto{
     margin-right: auto;
 }
 .flex-vertical{
