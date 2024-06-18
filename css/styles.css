@@ -215,7 +215,7 @@ address{
     gap: 24px;
 }
 .even-width{
-    width: calc((100% - 72px) / 4);
+    flex-basis: calc((100% - 72px) / 4);
 }
 .margin-features-header{
     margin-bottom: 8px;
