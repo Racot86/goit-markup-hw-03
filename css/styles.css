@@ -292,10 +292,10 @@ address{
 .footer-text{
     max-width: 264px;
 }
-.align-start{
-    align-items: flex-start;
+.footer-container{
+    width: 1158px;
+    margin: 0 auto;
+    padding: 0 15px;
 }
-.direction-column-start{
-    flex-direction: column;
-}
+
 
