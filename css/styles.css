@@ -205,6 +205,21 @@ address{
 .margin-top-btn{
     margin-top: 48px;
 }
+.section-features{
+    padding: 120px 0;
+}
+.flex{
+    display: flex;
+}
+.gap-features{
+    gap: 24px;
+}
+.even-width{
+    width: calc((100% - 72px) / 4);
+}
+.margin-features-header{
+    margin-bottom: 8px;
+}
 
 
 
